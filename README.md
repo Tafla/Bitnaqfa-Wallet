@@ -16,7 +16,6 @@ Alternative way is to create git submodule:
 git submodule add https://github.com/Tafla/Neqfa-Core.git cryptonote
 ```
 
-Replace URL with git remote repository of your coin.
 
 **4. Build**
 
