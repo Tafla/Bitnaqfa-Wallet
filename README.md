@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/Tafla/Digital-Naqfa-Core.git
+git clone https://github.com/Tafla/Neqfa-Core.git
 ```
 
 
@@ -13,7 +13,7 @@ ln -s ../Tafla cryptonote```
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/Tafla/Digital-Naqfa-Core.git cryptonote
+git submodule add https://github.com/Tafla/Neqfa-Core.git cryptonote
 ```
 
 Replace URL with git remote repository of your coin.
