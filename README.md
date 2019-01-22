@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/Tafla/Bitnaqfa-Core.git
+git clone https://github.com/Tafla/Bitnaqfa-Wallet.git
 ```
 
 
