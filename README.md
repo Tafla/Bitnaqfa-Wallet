@@ -22,3 +22,4 @@ git submodule add https://github.com/Tafla/Bitnaqfa-Core.git cryptonote
 ```
 mkdir build && cd build && cmake .. && make
 ```
+donations:  habeshaSgETMnTNK5NhEgnYStWGP7xwCzUVR65Z5dmBfTYwxvrhaE8g3SwqqHfx51Q1XW4H4y69hhfqu8WjUWidPaXZ3gjqkxmL6xX
