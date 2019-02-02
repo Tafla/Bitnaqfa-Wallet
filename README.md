@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/Tafla/Bitnaqfa-Wallet.git
+git clone https://github.com/Tafla/habeshawallet.git
 ```
 
 
@@ -13,7 +13,7 @@ ln -s ../Tafla cryptonote```
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/Tafla/Bitnaqfa-Core.git cryptonote
+git submodule add https://github.com/Tafla/habeshacore.git cryptonote
 ```
 
 
